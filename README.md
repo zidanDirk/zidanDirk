@@ -1,7 +1,10 @@
-- 👋 Hi, I’m zidan in GuangZhou China
-- 👀 I’m interested in Coding
+Hi There 👋
+
+I’m zidan, a web developer in GuangZhou China
+
+- 👀 I’m interested in Basketball and Movie
 - 🌱 I’m currently learning JavaScript
-- 📫 danielcheung41@gmail.com
+- 📫 My E-mail: danielcheung41@gmail.com
 
 <!---
 zidanDirk/zidanDirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
