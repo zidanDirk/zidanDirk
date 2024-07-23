@@ -6,7 +6,6 @@ I’m zidan, a web developer in GuangZhou China
 - 🌱 I’m currently learning JavaScript
 - 📫 My E-mail: danielcheung41@gmail.com
 - 📒 My Blog: [superZidan's Blog](https://zhangzidan.com/)
-- 📹 A lucky YouTuber: [DebugSquad](https://www.youtube.com/channel/UC_ktD3RTqXY2DZHKgedPXrQ)
 
 
 
